@@ -1,1 +1,8 @@
 안녕하세요
+
+import matplotlib.pyplot as plt
+
+x=range(100)
+y=range(100)
+plt.plot(x,y)
+
